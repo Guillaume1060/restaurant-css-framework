@@ -1,12 +1,14 @@
 # Bienvenue chez Rosy !
+Vous cherchez une bonne adresse, où bien manger, y’a plus qu’à visiter ce magnifique site ci-dessous :
+
 
 Dans le cadre d'un apprentissage BOOTSRAP chez BeCode, j'ai crée le site du restaurant DA ROSY en maximisant l'usage de BOOTSTRAP.
 
 ## Lien des consignes
-[https://github.com/becodeorg/Swartz-6/blob/main/1.The-Field/10.Bootstrap/restaurant.adoc]
+La consigne complète [ici](https://github.com/becodeorg/Swartz-6/blob/main/1.The-Field/10.Bootstrap/restaurant.adoc)
 Web Development
 Total Numbers of Pages: 6
-Home
+- Home
 - Menu (Complete Menu)
 - Location (Google map)
 - Gallery (3 pages with 3 pictures each)
@@ -15,9 +17,11 @@ Home
 
 ## Langages utilisés ?
 
-+ HTML5, CSS3(mini possible)
++ HTML5, CSS3 (minimum possible)
 + BOOTSTRAP, forcément :)
 ## Responsive ?
 
 Oui, il est responsive!
 
+## Crédits
+Les photos proviennent du site [unsplash](https://unsplash.com/)
