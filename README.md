@@ -4,7 +4,7 @@ https://guillaume1060.github.io/restaurant-css-framework/index.html
 
 Dans le cadre d'un apprentissage BOOTSRAP chez BeCode, j'ai crée le site du restaurant DA ROSY en maximisant l'usage de BOOTSTRAP.
 
-## Lien des consignes
+## Les consignes
 La consigne complète [ici](https://github.com/becodeorg/Swartz-6/blob/main/1.The-Field/10.Bootstrap/restaurant.adoc)
 Web Development
 Total Numbers of Pages: 6
@@ -24,4 +24,6 @@ Total Numbers of Pages: 6
 Oui, il est responsive!
 
 ## Crédits
-Les photos proviennent du site [unsplash](https://unsplash.com/)
+Les photos proviennent du site [unsplash](https://unsplash.com/).
+
+![6h du mat](https://media.giphy.com/media/3oEduRVhWLi1x71VHG/giphy.gif) 
